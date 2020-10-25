@@ -21,7 +21,7 @@
     "check",
     "filter",
     "!*.spec.ts",
-    "!*.ts",
+    "*.ts",
     "*.d.ts"
   ],
   "scripts": {
